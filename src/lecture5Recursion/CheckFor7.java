@@ -27,7 +27,7 @@ public class CheckFor7 {
 	
 	public static void main(String[] args) {
 		
-		int a[] = {1,2,7,9,3};
+		int a[] = {1,2,7,9,3,7};
 		
 		System.out.println(Check7(a));
 	}

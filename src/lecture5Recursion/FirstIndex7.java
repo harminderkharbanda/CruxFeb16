@@ -30,12 +30,12 @@ public class FirstIndex7 {
 		if(x == -1)
 			return -1;
 		else
-			return x++;
+			return ++x;
 	}
 	
 	public static void main(String[] args) {
 		
-		int[] a = {1,2,2,2};
+		int[] a = {1,2,2,7,2};
 		System.out.println(findFirstIndex7(a));
 	}
 

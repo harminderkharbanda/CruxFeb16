@@ -34,7 +34,7 @@ public class LastIndexOf7 {
 	
 	public static void main(String[] args) {
 		
-		int[] a = {1,2,7,2,2,2};
+		int[] a = {1,2,7,2,2,7,2};
 		System.out.println(findLastIndex7(a));
 
 	}

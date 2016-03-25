@@ -46,7 +46,7 @@ public class AllIndicesOf7 {
 	
 	public static void main(String[] args) {
 		
-		int[] a = {2,2,2,2};
+		int[] a = {2,2,2,2,7,7};
 		
 		int x[] = printAllIndicesOf7(a);
 		
